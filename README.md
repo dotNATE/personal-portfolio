@@ -15,3 +15,7 @@ The brief outlines loose requirements to build a personal portfolio page. I inte
 ## Technologies
 
 HTML5, CSS3, Javascript ES6
+
+## To-Do
+
+1. Change splash to image (currently text) and implement as a parallax background
