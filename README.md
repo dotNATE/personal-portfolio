@@ -2,9 +2,7 @@
 
 ## Intro
 
-This is a small aimed at building on my HTML, CSS and Javascript experience. It is part of the Full Stack Engineer Path from Code Academy. (https://www.codecademy.com/).
-
-Most of the images that I am intending to use are screenshots from Minecraft. I've made this decision as it's easy to generate content with a consistent format and theme, and as few are likely to view this project.
+This is a small project aimed at building on my HTML, CSS and Javascript experience. It is part of the Full Stack Engineer Path from Code Academy. (https://www.codecademy.com/).
 
 The brief outlines loose requirements to build a personal portfolio page. I intend to keep adding to and modifying this project as my skill level grows and I need to demonstrate that I'm able to produce more complex work.
 
