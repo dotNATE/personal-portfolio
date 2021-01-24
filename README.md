@@ -6,6 +6,10 @@ This is a small project aimed at building on my HTML, CSS and Javascript experie
 
 The brief outlines loose requirements to build a personal portfolio page. I intend to keep adding to and modifying this project as my skill level grows and I need to demonstrate that I'm able to produce more complex work.
 
+After starting this project and pouring several hours into it I relaised that my designs were too ambitious! i was spending absurd amounts of time trying to achieve a style that I did not have the skill to recreate. The rate at which I was learning slowed and my motivation started to waver.
+
+In response to this I simplified my design and am starting again, totally from scratch! I'm going to keep using the same repo on GitHub to show my progress down the rabbit hole, and back out again.
+
 ## Primary Goals
 
 1. Easy to read! Though it goes without saying I've seen some truly awful portfolio sites in my time as a technology recruiter. It's important that the information on the page is easy to digest.
@@ -17,5 +21,3 @@ The brief outlines loose requirements to build a personal portfolio page. I inte
 HTML5, CSS3, Javascript ES6
 
 ## To-Do
-
-1. Change splash to image (currently text) and implement as a parallax background
