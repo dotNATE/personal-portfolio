@@ -74,7 +74,26 @@ nav ul {
   font-size: 3rem;
   margin-left: 20px;
   padding: 5px;
-  opacity: 0.8;
+}
+
+.fa-html5 {
+  color: #e34c26;
+}
+
+.fa-css3-alt {
+  color: #264de4;
+}
+
+.fa-js-square {
+  color: #f0db4f;
+}
+
+.fa-github-square {
+  color: #211f1f;
+}
+
+.fa-node {
+  color: #3c873a;
 }
 
 /* projects */
