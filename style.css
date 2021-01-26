@@ -104,11 +104,23 @@ nav ul {
 }
 
 .project-box {
+  display: flex;
+  flex-direction: column;
   width: 27%;
   min-width: 260px;
-  padding: 5px;
+  padding: 15px;
   margin: 5px;
   background-color: #101010;
+}
+
+.project-box img {
+  width: 90%;
+  align-self: center;
+}
+
+.project-box h2 {
+  padding-left: 12px;
+  color: white;
 }
 
 /* contact */
