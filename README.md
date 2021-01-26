@@ -24,3 +24,4 @@ HTML5, CSS3, Javascript ES6
 
 1. Possibly introduce CSS grid layout to aid in layout of page
 2. use img tag instead of div w/ background-image in about-me section - this will increase accesibility
+3. Re-write CSS for "about-me" section

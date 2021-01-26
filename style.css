@@ -69,5 +69,13 @@ nav ul {
 }
 
 /* skills */
+
+#skill-icons {
+  font-size: 3rem;
+  margin-left: 20px;
+  padding: 5px;
+  opacity: 0.8;
+}
+
 /* projects */
 /* contact */
