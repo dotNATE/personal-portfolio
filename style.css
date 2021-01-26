@@ -8,7 +8,14 @@
 }
 
 body {
-  padding-top: 52px;
+  padding-top: 50px;
+}
+
+section {
+  max-width: 1200px;
+  margin: auto;
+  padding: 10px;
+  border: 1px solid green;
 }
 
 /* nav */
@@ -22,6 +29,7 @@ nav {
   top: 0;
   background-color: white;
   border: 1px solid black;
+  z-index: 15;
 }
 
 nav ul {
@@ -37,6 +45,29 @@ nav ul {
 }
 
 /* about-me */
+
+#about-me {
+  display: flex;
+  justify-content: space-around;
+}
+
+.about {
+  width: 40%;
+}
+
+#about-text {
+  margin-top: 25px;
+  line-height: 1.6;
+}
+
+#about-img {
+  height: auto;
+  background-image: url(_imgs/glorious_author.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 20px;
+}
+
 /* skills */
 /* projects */
 /* contact */

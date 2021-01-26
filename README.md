@@ -21,3 +21,6 @@ In response to this I simplified my design and am starting again, totally from s
 HTML5, CSS3, Javascript ES6
 
 ## To-Do
+
+1. Possibly introduce CSS grid layout to aid in layout of page
+2. use img tag instead of div w/ background-image in about-me section - this will increase accesibility
