@@ -78,4 +78,23 @@ nav ul {
 }
 
 /* projects */
+
+#project-list {
+  display: flex;
+  justify-content: space-around;
+}
+
+.project-box {
+  width: 27%;
+  min-width: 260px;
+  padding: 5px;
+  margin: 5px;
+  background-color: #101010;
+}
+
 /* contact */
+
+.icon-links {
+  margin-left: 20px;
+  font-size: 3rem;
+}
