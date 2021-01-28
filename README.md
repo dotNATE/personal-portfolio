@@ -22,7 +22,8 @@ HTML5, CSS3, Javascript ES6
 
 ## To-Do
 
-1. Possibly introduce CSS grid layout to aid in layout of page
-2. use img tag instead of div w/ background-image in about-me section - this will increase accesibility
-3. Re-write CSS for "about-me" section
+1. Consider introducing CSS grid to aid in layout of page
+2. use img tag instead of div w/ background-image in about-me section - this will increase accesibility [DONE]
+3. Re-write CSS for "about-me" section [DONE]
 4. Add Icons and links to project section (links to as yet built, separate projects archive)
+5. Re-design contact links to increase accessibility - include words
