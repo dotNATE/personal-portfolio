@@ -17,6 +17,10 @@ section {
   padding: 10px;
 }
 
+h1 {
+  font-size: 3rem;
+}
+
 /* nav */
 
 nav {
@@ -43,6 +47,14 @@ nav ul {
   list-style: none;
 }
 
+.nav-links-anchor {
+  text-decoration: none;
+}
+
+.nav-links-anchor:hover {
+  text-decoration: underline;
+}
+
 /* about-me */
 
 #about-me {
@@ -56,6 +68,8 @@ nav ul {
 }
 
 #about-img {
+  position: relative;
+  top: 25px;
   border-radius: 20px;
 }
 
@@ -140,5 +154,5 @@ nav ul {
 .icon-links p {
   position: relative;
   left: 10px;
-  font-size: 2rem;
+  font-size: 1.5rem;
 }

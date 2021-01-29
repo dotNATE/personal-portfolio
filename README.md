@@ -27,3 +27,9 @@ HTML5, CSS3, Javascript ES6
 3. Re-write CSS for "about-me" section [DONE]
 4. Add Icons and links to project section (links to as yet built, separate projects archive)
 5. Re-design contact links to increase accessibility - include words
+6. Convert key projects into a more dynamic display of Javascript objects
+
+## Key Lessons Learnt
+
+1. PLAN PLAN PLAN!!! I did a basic wireframe for this page and it was insufficient planning - things would go more smoothly, and be finished faster, if I did more preperation
+2. Establish timescales - I ended up wasting a lot of time tinkering because I had no time pressure; I'm not totally happy with the result compared with the amount of time invested
